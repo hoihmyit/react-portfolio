@@ -1,0 +1,26 @@
+{
+    "experienceData": [
+        {
+            "id": 1,
+            "companyName": "KMS Technology Vietnam",
+            "designation": "Software Engineer",
+            "statements": [
+                "1. I have worked as a Software Engineer at KMS Technology Vietnam",
+                "2. I have successfully implemented various features",
+                "3. I am passionate about writing clean and maintainable code"
+            ],
+            "iconImages": ["java", "springboot", "react", "js", "html"]
+        },
+        {
+            "id": 2,
+            "companyName": "Axon Active Vietnam",
+            "designation": "Software Engineer",
+            "statements": [
+                "1. I have worked as a Software Engineer at Axon Active Vietnam",
+                "2. I have successfully implemented various features",
+                "3. I am passionate about writing clean and maintainable code"
+            ],
+            "iconImages": ["java", "springboot"]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "projectData": [
+        {
+            "image": "https://picsum.photos/id/885/4000/2667",
+            "title": "Customer Portal - Birdseye Security Inc",
+            "industry": "Yard Management System",
+            "sentences": [
+                "This is ...",
+                "Implemented user ..."
+            ],
+            "link": "https://www.example.com/"
+        },
+        {
+            "image": "https://picsum.photos/id/371/5000/3333",
+            "title": "Rules Team - Cloud Migration (LexisNexis)",
+            "industry": "Insurance",
+            "sentences": [
+                "This is ...",
+                "Implemented user ..."
+            ],
+            "link": "https://www.example.com/"
+        },
+        {
+            "image": "https://picsum.photos/id/204/5000/3333",
+            "title": "Smart Mobility Transport (Axon Vibe)",
+            "industry": "Smart Travel",
+            "sentences": [
+                "This is ...",
+                "Implemented user ..."
+            ],
+            "link": "https://www.example.com/"
+        }
+    ]
+}
